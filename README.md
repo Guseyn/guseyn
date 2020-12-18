@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Guseyn/guseyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there, I'm Guseyn
+### Hi there 👋, I'm Guseyn
 
 I am the author of [Async Tree Pattern](https://guseyn.com/pdf/Async_Tree_Pattern.pdf), creator of [EHTML](https://github.com/Guseyn/EHTML), [open source enthusiast](https://guseyn.com/stuff/projects?v=1.0.227), [tech blogger](guseyn.com), [entrepreneur](https://guseyn.com/stuff/about#entrepreneur) and [programmer](https://guseyn.com/stuff/about#programmer).
 
