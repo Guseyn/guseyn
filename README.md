@@ -4,4 +4,4 @@ I am the founder of [Unison](https://unisonofficial.com), author of [Async Tree 
 
 [![Blog Badge](https://img.shields.io/badge/-guseyn.com-red?style=flat-square&logoColor=white&link=https://guseyn.com)](https://guseyn.com)
 [![Instagram Badge](https://img.shields.io/badge/-guseyn-orchid?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/guseyn.4u)](https://instagram.com/guseyn.4u)
-[![Linkedin Badge](https://img.shields.io/badge/-guseyn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/guseyn-ismayylov-111bb1179/](https://www.linkedin.com/in/gusein-ismaiylov-111bb1179/))]([[https://www.linkedin.com/in/guseyn-ismayylov-111bb1179/](https://www.linkedin.com/in/gusein-ismaiylov-111bb1179/)](https://www.linkedin.com/in/gusein-ismaiylov-111bb1179/)https://www.linkedin.com/in/gusein-ismaiylov-111bb1179/)
+[![Linkedin Badge](https://img.shields.io/badge/-guseyn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gusein-ismaiylov-111bb1179/)](https://www.linkedin.com/in/gusein-ismaiylov-111bb1179/)
